@@ -5,3 +5,10 @@ cd - для переходу між каталогами
 git add - для додавання файлів в Git
 git status - для перевірки статусу git
 git commit -m "name" для додавання "журналу змін" у файлі
+touch
+mkdir
+cp
+mv
+cat
+branch
+chekout
